@@ -36,6 +36,6 @@ Will follow
 ## Training
 
 ### Network Architecture
-![image_name](https://github.com/WendyJ22/Pose_Estimation/blob/master/readme/architecture.png).
+![image_name](https://github.com/WendyJ22/Pose_Estimation/readme/architecture.png).
 
 
