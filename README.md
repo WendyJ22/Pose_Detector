@@ -1,13 +1,5 @@
-# Pose Estimation
-Code for "3D Arterial Segmentation via Single 2D Projections and Depth Supervision in Contrast-Enhanced CT Images" @MICCAI 2023
-
-### 3D Arterial Segmentation via Single 2D Projections and Depth Supervision in Contrast-Enhanced CT Images
-
-Paper: https://arxiv.org/pdf/2309.08481.pdf
-
-Supplementary material: https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-031-43907-0_14/MediaObjects/549755_1_En_14_MOESM1_ESM.pdf
-
-<img title="Overview" alt="Overview" src="graphical_abstract.jpg">
+# Posure Estimation
+The goal of human posture estimation is to infer the posture information of the human body in three-dimensional space based on image or video data, including bone structure, joint angle and body parts. Therefore, the detection of key points of human bones is the basis of many computer vision tasks, such as action classification, abnormal behaviour detection, and automatic driving.
 
 
 ## Installation instructions
