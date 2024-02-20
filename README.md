@@ -34,7 +34,7 @@ Supplementary material: https://static-content.springer.com/esm/chp%3A10.1007%2F
 Will follow
 
 ### Network Architecture
-![Teaser?](https://github.com/WendyJ22/Pose_Estimation/blob/master/readme/architecture.png)
+(https://github.com/WendyJ22/Pose_Estimation/blob/master/readme/architecture.png)
 
 
 ```
